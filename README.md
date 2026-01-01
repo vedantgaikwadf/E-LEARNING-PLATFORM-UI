@@ -25,4 +25,4 @@ The user interface is styled with modern CSS techniques, including responsive la
 
 Overall, this project showcases the ability to design user-centric front-end interfaces, implement basic interactivity, and structure a multi-page application. The E-Learning Platform UI effectively demonstrates frontend development skills and an understanding of educational platform design concepts.
 
-OUTPUT:->
+OUTPUT:->https://github.com/vedantgaikwadf/E-LEARNING-PLATFORM-UI/issues/1#issue-3774219003
